@@ -33,6 +33,20 @@
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h3>
+    {% if post.authors %}
+      <p>
+        {{ post.authors }}
+        {% if post.contribution-note %}
+          <br />
+          <i style="display: inline;">
+            {{ post.contribution-note }}
+          </i>
+        {% endif %}
+      </p>
+    {% endif %}
+    {% if post.collection == 'publications' %}
+      <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+    {% endif %}
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
