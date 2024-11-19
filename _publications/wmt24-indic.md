@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/wmt24-indic
 excerpt: 'Focuses on translation from English-to-Indic and Indic-to-English.'
 date: 2024-11-16
-venue: 'EMNLP 2024'
+venue: 'WMT 2024'
 paperurl: 'https://aclanthology.org/2024.wmt-1.62/'
 citation: # 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
