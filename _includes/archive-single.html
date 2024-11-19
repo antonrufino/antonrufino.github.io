@@ -33,6 +33,18 @@
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h2>
+
+    {% if post.authors %}
+      <p>
+        <b>{{ post.authors }}</b>
+        {% if post.contribution-note %}
+          <br />
+          <i style="display: inline;">
+            {{ post.contribution-note }}
+          </i>
+        {% endif %}
+      </p>
+    {% endif %}
     
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
