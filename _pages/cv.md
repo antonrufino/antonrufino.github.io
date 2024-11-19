@@ -15,9 +15,10 @@ Education
 
 Work experience
 ======
-* July 2018 to Present: Research Assistant
+* July 2018 to Present: Software Engineer
   * Samsung R&D Institute Philippines
   * I have taken on several roles during my time here namely backend web developer, data scientist, machine learning engineer, and researcher
+  * Taught algorithm classes for fellow engineers in the company
 
 * June 2017 to July 2017: Software Engineering Intern
   * Freelancer.com Philippines Inc.
