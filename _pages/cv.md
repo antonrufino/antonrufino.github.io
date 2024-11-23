@@ -17,16 +17,15 @@ Work experience
 ======
 **July 2018 to Present: Software Engineer**\
 *Samsung R&D Institute Philippines*\
-I have taken on several roles during my time here namely backend web developer, data scientist, machine learning engineer, and researcher.
+I have taken on several roles during my time here namely backend web developer, data scientist, machine learning engineer, and researcher. Here are some highlights of my time here:
 * Currently involved in a project utilizing natural language processing and deep learning for a conversational agent. 
   * Co-authored two papers accepted for publication at WMT24.
   * Has resolved critical bugs that affected users accross several countries.
-* Worked on a project where I had to develop pipelines for automated data analysis requiring skills in statistics, data engineering, and research.
-  * Developed an automated pipeline for root cause analysis.
+* Worked on a project where I had to develop pipelines for automated data analysis requiring skills in statistics, data engineering, and research. In particular, I developed an automated pipeline for root cause analysis.
 * Has worked on various projects as a backend web developer spanning several frameworks and technologies
 * Taught and mentored students at UP Rural High School as part of [SPARK11 2024](https://research.samsung.com/news/-UPRHS-Continuing-the-Spark)
 * Served as problem setter/judge for Samsung AlgoChallenge 2019 and for various internal contests.
-* Does research into possible future products of the company involving deep learning and computer vision. This has led to currently pending patent applications, one of which has been published in Google Patents.
+* Currently does research into possible future products of the company involving deep learning and computer vision. This has currently resulted in one published [patent application](https://patents.google.com/patent/WO2024128677A1/en).
 * Designed and taught an algorithms course for software engineers within the company which was well-rated by students.
 
 **June 2017 to July 2017: Software Engineering Intern**\
