@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Computer Science *cum laude*, University of the Philippines Los Baños, 2018
 
-Work experience
+Work Experience
 ======
 **July 2018 to Present: Software Engineer**\
 *Samsung R&D Institute Philippines*\
