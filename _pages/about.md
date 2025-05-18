@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently a Machine Learning Engineer and Researcher at Samsung Research working on conversational agents, machine translation, multimodal AI. In my six years of industry experience, I've worked in numerous roles that span from software engineering to data science for products that reach millions of users worldwide. I earned my Bachelor's degree in Computer Science *cum laude* from the University of the Philippines - Los Baños and continued my research in the industry where I also mentor and teach others.
+I'm currently a Machine Learning Engineer and Researcher at Samsung Research working on conversational agents, machine translation, and multimodal AI. In my six years of industry experience, I've worked in numerous roles that span from software engineering to data science for products that reach millions of users worldwide. I earned my Bachelor's degree in Computer Science *cum laude* from the University of the Philippines - Los Baños and continued my research in the industry where I also mentor and teach others.
 
 My research interests lie in the intersection of Computer Vision and Natural Language Processing, particularly:
 - **Generative Methods for Low-Resource Tasks**: Tasks such as machine translation and scene text recognition have established datasets for high-resource cases; however, I wish to address the question of whether existing generative models are able to generate synthetic data for low-resource cases in these problems.
